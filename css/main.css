@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "Futura" sans-serif;
+}
+
+.header {
+  margin-bottom: 50px;
+  background-color: #11dbe2;
+}
+
+.header .logo {
+  margin-top: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+.header .navigation {
+  display: block;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+.header .navigation li {
+  display: inline-block;
+}
+
+.header .navigation li a {
+  display: inline-block;
+  padding: 26px 15px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1000px;
+}
